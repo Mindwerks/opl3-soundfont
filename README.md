@@ -23,3 +23,16 @@ http://www3.telus.net/a6120536/oldscardemu.htm
 
 To humanity with ❤ (again)
 
+Changelog
+=========
+
+Version 1.0
+^^^^^^^^^^^
+
+Original file
+
+OPL-3_FM_128M.sf2 Checksums
+
+md5sum 300da15c8bbfa8ab223cf9ed33121e4d  
+shasum bb14b08ae6f9f5b4b3495fd650c6f794163a39e4  
+
