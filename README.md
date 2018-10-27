@@ -13,6 +13,8 @@ Author:  Zandro Reveille
 Contact: Zandro at googlemail.com  
 Website: http://zandro.freeunixhost.com/opl3/  
 
+Demo video: [OPL3 kit, played with fingers on Yamaha DTX-Multi 12](https://www.youtube.com/watch?v=_GVbGXrMLJc) (youtube)
+
 Available download sites:  
 http://musical-artifacts.com/artifacts/15  
 http://woolyss.com/chipmusic-soundfonts.php  
